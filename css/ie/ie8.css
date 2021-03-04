@@ -1,0 +1,31 @@
+.section-content-element:first-child+*+*, 
+.section-content-element:first-child+*+*+*+*+*,
+.section-content-element:first-child+*+*+*+*+*+*+*+*,
+.section-content-element:first-child+*+*+*+*+*+*+*+*+*+*+*,
+.section-content-element:first-child+*+*+*+*+*+*+*+*+*+*+*+*+*+*,
+.section-content-element:first-child+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*,
+.section-content-element:first-child+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*,
+.section-content-element:first-child+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*,
+.section-content-element:first-child+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*,
+.section-content-element:first-child+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*,
+.section-content-element:first-child+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*,
+.section-content-element:first-child+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*
+{ 
+  margin-right:0;  
+}
+
+.bounty-element:first-child+*+*, 
+.bounty-element:first-child+*+*+*+*+*,
+.bounty-element:first-child+*+*+*+*+*+*+*+*,
+.bounty-element:first-child+*+*+*+*+*+*+*+*+*+*+*,
+.bounty-element:first-child+*+*+*+*+*+*+*+*+*+*+*+*+*+*,
+.bounty-element:first-child+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*,
+.bounty-element:first-child+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*,
+.bounty-element:first-child+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*,
+.bounty-element:first-child+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*,
+.bounty-element:first-child+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*,
+.bounty-element:first-child+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*,
+.bounty-element:first-child+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*
+{ 
+  margin-right:0;  
+}
